@@ -1,0 +1,419 @@
+idItem,userId,idFeedback,item,pivote,value,completed,course,nameItem,Matricula
+59,1588,8,59,158859,1,1,132,Selecciona la carrera a la cual perteneces.,24050019
+60,1588,8,60,158860,1,1,132,Selecciona el semestre en el que te encuentras,24050019
+61,1588,8,61,158861,2,1,132,¿Con qué género te identificas más?,24050019
+62,1588,8,62,158862,1,1,132,¿En que modalidad te encuentras inscrito?,24050019
+63,1588,8,63,158863,1,1,132,¿Cuál es tu edad actual? ,24050019
+64,1588,8,64,158864,1,1,132,¿Cuál es tu estado civil?,24050019
+65,1588,8,65,158865,5,1,132,¿Cuál es tu situación laboral actual?,24050019
+66,1588,8,66,158866,3,1,132,¿Cuál es el máximo grado de estudios del Padre?,24050019
+67,1588,8,67,158867,2,1,132,¿Cuál es el máximo estudio de la madre?,24050019
+68,1588,8,68,158868,3,1,132,¿Cómo es tu relación con tus amigos(as)?,24050019
+69,1588,8,69,158869,2,1,132,¿Tienes pareja?,24050019
+59,1654,8,59,165459,3,2,132,Selecciona la carrera a la cual perteneces.,24060045
+60,1654,8,60,165460,1,2,132,Selecciona el semestre en el que te encuentras,24060045
+61,1654,8,61,165461,2,2,132,¿Con qué género te identificas más?,24060045
+62,1654,8,62,165462,1,2,132,¿En que modalidad te encuentras inscrito?,24060045
+63,1654,8,63,165463,1,2,132,¿Cuál es tu edad actual? ,24060045
+64,1654,8,64,165464,1,2,132,¿Cuál es tu estado civil?,24060045
+65,1654,8,65,165465,5,2,132,¿Cuál es tu situación laboral actual?,24060045
+66,1654,8,66,165466,2,2,132,¿Cuál es el máximo grado de estudios del Padre?,24060045
+67,1654,8,67,165467,2,2,132,¿Cuál es el máximo estudio de la madre?,24060045
+68,1654,8,68,165468,1,2,132,¿Cómo es tu relación con tus amigos(as)?,24060045
+69,1654,8,69,165469,2,2,132,¿Tienes pareja?,24060045
+81,767,9,81,76781,1,3,75,Selecciona la carrera a la cual perteneces.,22050014
+82,767,9,82,76782,5,3,75,Selecciona el semestre en el que te encuentras,22050014
+83,767,9,83,76783,2,3,75,¿Con qué género te identificas más?,22050014
+84,767,9,84,76784,2,3,75,¿En que modalidad te encuentras inscrito?,22050014
+85,767,9,85,76785,3,3,75,¿Cuál es tu edad actual? ,22050014
+86,767,9,86,76786,1,3,75,¿Cuál es tu estado civil?,22050014
+87,767,9,87,76787,2,3,75,¿Cuál es tu situación laboral actual?,22050014
+88,767,9,88,76788,1,3,75,¿Cuál es el máximo grado de estudios del Padre?,22050014
+89,767,9,89,76789,2,3,75,¿Cuál es el máximo estudio de la madre?,22050014
+90,767,9,90,76790,2,3,75,¿Cómo es tu relación con tus amigos(as)?,22050014
+91,767,9,91,76791,1,3,75,¿Tienes pareja?,22050014
+81,787,9,81,78781,1,4,75,Selecciona la carrera a la cual perteneces.,22050042
+82,787,9,82,78782,5,4,75,Selecciona el semestre en el que te encuentras,22050042
+83,787,9,83,78783,2,4,75,¿Con qué género te identificas más?,22050042
+84,787,9,84,78784,2,4,75,¿En que modalidad te encuentras inscrito?,22050042
+85,787,9,85,78785,3,4,75,¿Cuál es tu edad actual? ,22050042
+86,787,9,86,78786,1,4,75,¿Cuál es tu estado civil?,22050042
+87,787,9,87,78787,4,4,75,¿Cuál es tu situación laboral actual?,22050042
+88,787,9,88,78788,1,4,75,¿Cuál es el máximo grado de estudios del Padre?,22050042
+89,787,9,89,78789,1,4,75,¿Cuál es el máximo estudio de la madre?,22050042
+90,787,9,90,78790,2,4,75,¿Cómo es tu relación con tus amigos(as)?,22050042
+91,787,9,91,78791,2,4,75,¿Tienes pareja?,22050042
+48,1037,7,48,103748,1,5,118,Selecciona la carrera a la cual perteneces.,23050012
+49,1037,7,49,103749,3,5,118,Selecciona el semestre en el que te encuentras,23050012
+50,1037,7,50,103750,1,5,118,¿Con qué género te identificas más?,23050012
+51,1037,7,51,103751,2,5,118,¿En que modalidad te encuentras inscrito?,23050012
+52,1037,7,52,103752,1,5,118,¿Cuál es tu edad actual? ,23050012
+53,1037,7,53,103753,1,5,118,¿Cuál es tu estado civil?,23050012
+54,1037,7,54,103754,5,5,118,¿Cuál es tu situación laboral actual?,23050012
+55,1037,7,55,103755,3,5,118,¿Cuál es el máximo grado de estudios del Padre?,23050012
+56,1037,7,56,103756,3,5,118,¿Cuál es el máximo estudio de la madre?,23050012
+57,1037,7,57,103757,2,5,118,¿Cómo es tu relación con tus amigos(as)?,23050012
+58,1037,7,58,103758,2,5,118,¿Tienes pareja?,23050012
+81,795,9,81,79581,1,6,75,Selecciona la carrera a la cual perteneces.,22050056
+82,795,9,82,79582,5,6,75,Selecciona el semestre en el que te encuentras,22050056
+83,795,9,83,79583,1,6,75,¿Con qué género te identificas más?,22050056
+84,795,9,84,79584,2,6,75,¿En que modalidad te encuentras inscrito?,22050056
+85,795,9,85,79585,3,6,75,¿Cuál es tu edad actual? ,22050056
+86,795,9,86,79586,1,6,75,¿Cuál es tu estado civil?,22050056
+87,795,9,87,79587,2,6,75,¿Cuál es tu situación laboral actual?,22050056
+88,795,9,88,79588,1,6,75,¿Cuál es el máximo grado de estudios del Padre?,22050056
+89,795,9,89,79589,1,6,75,¿Cuál es el máximo estudio de la madre?,22050056
+90,795,9,90,79590,2,6,75,¿Cómo es tu relación con tus amigos(as)?,22050056
+91,795,9,91,79591,2,6,75,¿Tienes pareja?,22050056
+48,1350,7,48,135048,1,7,118,Selecciona la carrera a la cual perteneces.,23050043
+49,1350,7,49,135049,3,7,118,Selecciona el semestre en el que te encuentras,23050043
+50,1350,7,50,135050,2,7,118,¿Con qué género te identificas más?,23050043
+51,1350,7,51,135051,2,7,118,¿En que modalidad te encuentras inscrito?,23050043
+52,1350,7,52,135052,1,7,118,¿Cuál es tu edad actual? ,23050043
+53,1350,7,53,135053,1,7,118,¿Cuál es tu estado civil?,23050043
+54,1350,7,54,135054,2,7,118,¿Cuál es tu situación laboral actual?,23050043
+55,1350,7,55,135055,2,7,118,¿Cuál es el máximo grado de estudios del Padre?,23050043
+56,1350,7,56,135056,2,7,118,¿Cuál es el máximo estudio de la madre?,23050043
+57,1350,7,57,135057,2,7,118,¿Cómo es tu relación con tus amigos(as)?,23050043
+58,1350,7,58,135058,2,7,118,¿Tienes pareja?,23050043
+48,1052,7,48,105248,1,8,118,Selecciona la carrera a la cual perteneces.,23050027
+49,1052,7,49,105249,3,8,118,Selecciona el semestre en el que te encuentras,23050027
+50,1052,7,50,105250,3,8,118,¿Con qué género te identificas más?,23050027
+51,1052,7,51,105251,2,8,118,¿En que modalidad te encuentras inscrito?,23050027
+52,1052,7,52,105252,4,8,118,¿Cuál es tu edad actual? ,23050027
+53,1052,7,53,105253,1,8,118,¿Cuál es tu estado civil?,23050027
+54,1052,7,54,105254,2,8,118,¿Cuál es tu situación laboral actual?,23050027
+55,1052,7,55,105255,1,8,118,¿Cuál es el máximo grado de estudios del Padre?,23050027
+56,1052,7,56,105256,1,8,118,¿Cuál es el máximo estudio de la madre?,23050027
+57,1052,7,57,105257,3,8,118,¿Cómo es tu relación con tus amigos(as)?,23050027
+58,1052,7,58,105258,2,8,118,¿Tienes pareja?,23050027
+81,788,9,81,78881,1,9,75,Selecciona la carrera a la cual perteneces.,22050044
+82,788,9,82,78882,5,9,75,Selecciona el semestre en el que te encuentras,22050044
+83,788,9,83,78883,2,9,75,¿Con qué género te identificas más?,22050044
+84,788,9,84,78884,2,9,75,¿En que modalidad te encuentras inscrito?,22050044
+85,788,9,85,78885,1,9,75,¿Cuál es tu edad actual? ,22050044
+86,788,9,86,78886,1,9,75,¿Cuál es tu estado civil?,22050044
+87,788,9,87,78887,1,9,75,¿Cuál es tu situación laboral actual?,22050044
+88,788,9,88,78888,2,9,75,¿Cuál es el máximo grado de estudios del Padre?,22050044
+89,788,9,89,78889,2,9,75,¿Cuál es el máximo estudio de la madre?,22050044
+90,788,9,90,78890,3,9,75,¿Cómo es tu relación con tus amigos(as)?,22050044
+91,788,9,91,78891,1,9,75,¿Tienes pareja?,22050044
+48,1050,7,48,105048,1,10,118,Selecciona la carrera a la cual perteneces.,23050025
+49,1050,7,49,105049,3,10,118,Selecciona el semestre en el que te encuentras,23050025
+50,1050,7,50,105050,1,10,118,¿Con qué género te identificas más?,23050025
+51,1050,7,51,105051,2,10,118,¿En que modalidad te encuentras inscrito?,23050025
+52,1050,7,52,105052,1,10,118,¿Cuál es tu edad actual? ,23050025
+53,1050,7,53,105053,1,10,118,¿Cuál es tu estado civil?,23050025
+54,1050,7,54,105054,2,10,118,¿Cuál es tu situación laboral actual?,23050025
+55,1050,7,55,105055,2,10,118,¿Cuál es el máximo grado de estudios del Padre?,23050025
+56,1050,7,56,105056,2,10,118,¿Cuál es el máximo estudio de la madre?,23050025
+57,1050,7,57,105057,3,10,118,¿Cómo es tu relación con tus amigos(as)?,23050025
+58,1050,7,58,105058,1,10,118,¿Tienes pareja?,23050025
+59,1757,8,59,175759,1,11,132,Selecciona la carrera a la cual perteneces.,24050041
+60,1757,8,60,175760,1,11,132,Selecciona el semestre en el que te encuentras,24050041
+61,1757,8,61,175761,1,11,132,¿Con qué género te identificas más?,24050041
+62,1757,8,62,175762,2,11,132,¿En que modalidad te encuentras inscrito?,24050041
+63,1757,8,63,175763,3,11,132,¿Cuál es tu edad actual? ,24050041
+64,1757,8,64,175764,2,11,132,¿Cuál es tu estado civil?,24050041
+65,1757,8,65,175765,5,11,132,¿Cuál es tu situación laboral actual?,24050041
+66,1757,8,66,175766,7,11,132,¿Cuál es el máximo grado de estudios del Padre?,24050041
+67,1757,8,67,175767,2,11,132,¿Cuál es el máximo estudio de la madre?,24050041
+68,1757,8,68,175768,3,11,132,¿Cómo es tu relación con tus amigos(as)?,24050041
+69,1757,8,69,175769,2,11,132,¿Tienes pareja?,24050041
+59,1756,8,59,175659,1,12,132,Selecciona la carrera a la cual perteneces.,24050040
+60,1756,8,60,175660,1,12,132,Selecciona el semestre en el que te encuentras,24050040
+61,1756,8,61,175661,1,12,132,¿Con qué género te identificas más?,24050040
+62,1756,8,62,175662,2,12,132,¿En que modalidad te encuentras inscrito?,24050040
+63,1756,8,63,175663,2,12,132,¿Cuál es tu edad actual? ,24050040
+64,1756,8,64,175664,1,12,132,¿Cuál es tu estado civil?,24050040
+65,1756,8,65,175665,2,12,132,¿Cuál es tu situación laboral actual?,24050040
+66,1756,8,66,175666,2,12,132,¿Cuál es el máximo grado de estudios del Padre?,24050040
+67,1756,8,67,175667,2,12,132,¿Cuál es el máximo estudio de la madre?,24050040
+68,1756,8,68,175668,3,12,132,¿Cómo es tu relación con tus amigos(as)?,24050040
+69,1756,8,69,175669,2,12,132,¿Tienes pareja?,24050040
+81,761,9,81,76181,1,13,75,Selecciona la carrera a la cual perteneces.,22050007
+82,761,9,82,76182,5,13,75,Selecciona el semestre en el que te encuentras,22050007
+83,761,9,83,76183,1,13,75,¿Con qué género te identificas más?,22050007
+84,761,9,84,76184,2,13,75,¿En que modalidad te encuentras inscrito?,22050007
+85,761,9,85,76185,2,13,75,¿Cuál es tu edad actual? ,22050007
+86,761,9,86,76186,1,13,75,¿Cuál es tu estado civil?,22050007
+87,761,9,87,76187,2,13,75,¿Cuál es tu situación laboral actual?,22050007
+88,761,9,88,76188,3,13,75,¿Cuál es el máximo grado de estudios del Padre?,22050007
+89,761,9,89,76189,3,13,75,¿Cuál es el máximo estudio de la madre?,22050007
+90,761,9,90,76190,3,13,75,¿Cómo es tu relación con tus amigos(as)?,22050007
+91,761,9,91,76191,1,13,75,¿Tienes pareja?,22050007
+59,1575,8,59,157559,1,14,132,Selecciona la carrera a la cual perteneces.,24050006
+60,1575,8,60,157560,1,14,132,Selecciona el semestre en el que te encuentras,24050006
+61,1575,8,61,157561,1,14,132,¿Con qué género te identificas más?,24050006
+62,1575,8,62,157562,2,14,132,¿En que modalidad te encuentras inscrito?,24050006
+63,1575,8,63,157563,1,14,132,¿Cuál es tu edad actual? ,24050006
+64,1575,8,64,157564,1,14,132,¿Cuál es tu estado civil?,24050006
+65,1575,8,65,157565,1,14,132,¿Cuál es tu situación laboral actual?,24050006
+66,1575,8,66,157566,2,14,132,¿Cuál es el máximo grado de estudios del Padre?,24050006
+67,1575,8,67,157567,7,14,132,¿Cuál es el máximo estudio de la madre?,24050006
+68,1575,8,68,157568,1,14,132,¿Cómo es tu relación con tus amigos(as)?,24050006
+69,1575,8,69,157569,2,14,132,¿Tienes pareja?,24050006
+59,1572,8,59,157259,1,15,132,Selecciona la carrera a la cual perteneces.,24050003
+60,1572,8,60,157260,1,15,132,Selecciona el semestre en el que te encuentras,24050003
+61,1572,8,61,157261,1,15,132,¿Con qué género te identificas más?,24050003
+62,1572,8,62,157262,2,15,132,¿En que modalidad te encuentras inscrito?,24050003
+63,1572,8,63,157263,1,15,132,¿Cuál es tu edad actual? ,24050003
+64,1572,8,64,157264,1,15,132,¿Cuál es tu estado civil?,24050003
+65,1572,8,65,157265,2,15,132,¿Cuál es tu situación laboral actual?,24050003
+66,1572,8,66,157266,7,15,132,¿Cuál es el máximo grado de estudios del Padre?,24050003
+67,1572,8,67,157267,2,15,132,¿Cuál es el máximo estudio de la madre?,24050003
+68,1572,8,68,157268,1,15,132,¿Cómo es tu relación con tus amigos(as)?,24050003
+69,1572,8,69,157269,2,15,132,¿Tienes pareja?,24050003
+59,1594,8,59,159459,1,16,132,Selecciona la carrera a la cual perteneces.,24050025
+60,1594,8,60,159460,1,16,132,Selecciona el semestre en el que te encuentras,24050025
+61,1594,8,61,159461,1,16,132,¿Con qué género te identificas más?,24050025
+62,1594,8,62,159462,2,16,132,¿En que modalidad te encuentras inscrito?,24050025
+63,1594,8,63,159463,1,16,132,¿Cuál es tu edad actual? ,24050025
+64,1594,8,64,159464,1,16,132,¿Cuál es tu estado civil?,24050025
+65,1594,8,65,159465,5,16,132,¿Cuál es tu situación laboral actual?,24050025
+66,1594,8,66,159466,2,16,132,¿Cuál es el máximo grado de estudios del Padre?,24050025
+67,1594,8,67,159467,3,16,132,¿Cuál es el máximo estudio de la madre?,24050025
+68,1594,8,68,159468,3,16,132,¿Cómo es tu relación con tus amigos(as)?,24050025
+69,1594,8,69,159469,2,16,132,¿Tienes pareja?,24050025
+59,1605,8,59,160559,1,17,132,Selecciona la carrera a la cual perteneces.,24050036
+60,1605,8,60,160560,1,17,132,Selecciona el semestre en el que te encuentras,24050036
+61,1605,8,61,160561,2,17,132,¿Con qué género te identificas más?,24050036
+62,1605,8,62,160562,2,17,132,¿En que modalidad te encuentras inscrito?,24050036
+63,1605,8,63,160563,2,17,132,¿Cuál es tu edad actual? ,24050036
+64,1605,8,64,160564,1,17,132,¿Cuál es tu estado civil?,24050036
+65,1605,8,65,160565,2,17,132,¿Cuál es tu situación laboral actual?,24050036
+66,1605,8,66,160566,1,17,132,¿Cuál es el máximo grado de estudios del Padre?,24050036
+67,1605,8,67,160567,1,17,132,¿Cuál es el máximo estudio de la madre?,24050036
+68,1605,8,68,160568,2,17,132,¿Cómo es tu relación con tus amigos(as)?,24050036
+69,1605,8,69,160569,1,17,132,¿Tienes pareja?,24050036
+59,1593,8,59,159359,1,18,132,Selecciona la carrera a la cual perteneces.,24050024
+60,1593,8,60,159360,1,18,132,Selecciona el semestre en el que te encuentras,24050024
+61,1593,8,61,159361,2,18,132,¿Con qué género te identificas más?,24050024
+62,1593,8,62,159362,1,18,132,¿En que modalidad te encuentras inscrito?,24050024
+63,1593,8,63,159363,1,18,132,¿Cuál es tu edad actual? ,24050024
+64,1593,8,64,159364,1,18,132,¿Cuál es tu estado civil?,24050024
+65,1593,8,65,159365,1,18,132,¿Cuál es tu situación laboral actual?,24050024
+66,1593,8,66,159366,1,18,132,¿Cuál es el máximo grado de estudios del Padre?,24050024
+67,1593,8,67,159367,1,18,132,¿Cuál es el máximo estudio de la madre?,24050024
+68,1593,8,68,159368,3,18,132,¿Cómo es tu relación con tus amigos(as)?,24050024
+69,1593,8,69,159369,1,18,132,¿Tienes pareja?,24050024
+59,1570,8,59,157059,1,19,132,Selecciona la carrera a la cual perteneces.,24050001
+60,1570,8,60,157060,1,19,132,Selecciona el semestre en el que te encuentras,24050001
+61,1570,8,61,157061,1,19,132,¿Con qué género te identificas más?,24050001
+62,1570,8,62,157062,2,19,132,¿En que modalidad te encuentras inscrito?,24050001
+63,1570,8,63,157063,1,19,132,¿Cuál es tu edad actual? ,24050001
+64,1570,8,64,157064,1,19,132,¿Cuál es tu estado civil?,24050001
+65,1570,8,65,157065,2,19,132,¿Cuál es tu situación laboral actual?,24050001
+66,1570,8,66,157066,2,19,132,¿Cuál es el máximo grado de estudios del Padre?,24050001
+67,1570,8,67,157067,3,19,132,¿Cuál es el máximo estudio de la madre?,24050001
+68,1570,8,68,157068,3,19,132,¿Cómo es tu relación con tus amigos(as)?,24050001
+69,1570,8,69,157069,2,19,132,¿Tienes pareja?,24050001
+59,1580,8,59,158059,1,20,132,Selecciona la carrera a la cual perteneces.,24050011
+60,1580,8,60,158060,1,20,132,Selecciona el semestre en el que te encuentras,24050011
+61,1580,8,61,158061,1,20,132,¿Con qué género te identificas más?,24050011
+62,1580,8,62,158062,2,20,132,¿En que modalidad te encuentras inscrito?,24050011
+63,1580,8,63,158063,1,20,132,¿Cuál es tu edad actual? ,24050011
+64,1580,8,64,158064,1,20,132,¿Cuál es tu estado civil?,24050011
+65,1580,8,65,158065,2,20,132,¿Cuál es tu situación laboral actual?,24050011
+66,1580,8,66,158066,7,20,132,¿Cuál es el máximo grado de estudios del Padre?,24050011
+67,1580,8,67,158067,2,20,132,¿Cuál es el máximo estudio de la madre?,24050011
+68,1580,8,68,158068,3,20,132,¿Cómo es tu relación con tus amigos(as)?,24050011
+69,1580,8,69,158069,2,20,132,¿Tienes pareja?,24050011
+59,1595,8,59,159559,1,21,132,Selecciona la carrera a la cual perteneces.,24050026
+60,1595,8,60,159560,1,21,132,Selecciona el semestre en el que te encuentras,24050026
+61,1595,8,61,159561,1,21,132,¿Con qué género te identificas más?,24050026
+62,1595,8,62,159562,2,21,132,¿En que modalidad te encuentras inscrito?,24050026
+63,1595,8,63,159563,4,21,132,¿Cuál es tu edad actual? ,24050026
+64,1595,8,64,159564,1,21,132,¿Cuál es tu estado civil?,24050026
+65,1595,8,65,159565,2,21,132,¿Cuál es tu situación laboral actual?,24050026
+66,1595,8,66,159566,4,21,132,¿Cuál es el máximo grado de estudios del Padre?,24050026
+67,1595,8,67,159567,5,21,132,¿Cuál es el máximo estudio de la madre?,24050026
+68,1595,8,68,159568,1,21,132,¿Cómo es tu relación con tus amigos(as)?,24050026
+69,1595,8,69,159569,1,21,132,¿Tienes pareja?,24050026
+81,762,9,81,76281,1,22,75,Selecciona la carrera a la cual perteneces.,22050008
+82,762,9,82,76282,5,22,75,Selecciona el semestre en el que te encuentras,22050008
+83,762,9,83,76283,2,22,75,¿Con qué género te identificas más?,22050008
+84,762,9,84,76284,1,22,75,¿En que modalidad te encuentras inscrito?,22050008
+85,762,9,85,76285,3,22,75,¿Cuál es tu edad actual? ,22050008
+86,762,9,86,76286,1,22,75,¿Cuál es tu estado civil?,22050008
+87,762,9,87,76287,2,22,75,¿Cuál es tu situación laboral actual?,22050008
+88,762,9,88,76288,2,22,75,¿Cuál es el máximo grado de estudios del Padre?,22050008
+89,762,9,89,76289,2,22,75,¿Cuál es el máximo estudio de la madre?,22050008
+90,762,9,90,76290,1,22,75,¿Cómo es tu relación con tus amigos(as)?,22050008
+91,762,9,91,76291,1,22,75,¿Tienes pareja?,22050008
+59,1350,8,59,135059,1,23,132,Selecciona la carrera a la cual perteneces.,23050043
+60,1350,8,60,135060,3,23,132,Selecciona el semestre en el que te encuentras,23050043
+61,1350,8,61,135061,2,23,132,¿Con qué género te identificas más?,23050043
+62,1350,8,62,135062,2,23,132,¿En que modalidad te encuentras inscrito?,23050043
+63,1350,8,63,135063,1,23,132,¿Cuál es tu edad actual? ,23050043
+64,1350,8,64,135064,1,23,132,¿Cuál es tu estado civil?,23050043
+65,1350,8,65,135065,1,23,132,¿Cuál es tu situación laboral actual?,23050043
+66,1350,8,66,135066,2,23,132,¿Cuál es el máximo grado de estudios del Padre?,23050043
+67,1350,8,67,135067,2,23,132,¿Cuál es el máximo estudio de la madre?,23050043
+68,1350,8,68,135068,2,23,132,¿Cómo es tu relación con tus amigos(as)?,23050043
+69,1350,8,69,135069,2,23,132,¿Tienes pareja?,23050043
+59,1789,8,59,178959,1,24,132,Selecciona la carrera a la cual perteneces.,24050045
+60,1789,8,60,178960,1,24,132,Selecciona el semestre en el que te encuentras,24050045
+61,1789,8,61,178961,1,24,132,¿Con qué género te identificas más?,24050045
+62,1789,8,62,178962,2,24,132,¿En que modalidad te encuentras inscrito?,24050045
+63,1789,8,63,178963,6,24,132,¿Cuál es tu edad actual? ,24050045
+64,1789,8,64,178964,2,24,132,¿Cuál es tu estado civil?,24050045
+65,1789,8,65,178965,2,24,132,¿Cuál es tu situación laboral actual?,24050045
+66,1789,8,66,178966,2,24,132,¿Cuál es el máximo grado de estudios del Padre?,24050045
+67,1789,8,67,178967,4,24,132,¿Cuál es el máximo estudio de la madre?,24050045
+68,1789,8,68,178968,2,24,132,¿Cómo es tu relación con tus amigos(as)?,24050045
+69,1789,8,69,178969,1,24,132,¿Tienes pareja?,24050045
+59,1745,8,59,174559,1,25,132,Selecciona la carrera a la cual perteneces.,24050039
+60,1745,8,60,174560,1,25,132,Selecciona el semestre en el que te encuentras,24050039
+61,1745,8,61,174561,1,25,132,¿Con qué género te identificas más?,24050039
+62,1745,8,62,174562,2,25,132,¿En que modalidad te encuentras inscrito?,24050039
+63,1745,8,63,174563,2,25,132,¿Cuál es tu edad actual? ,24050039
+64,1745,8,64,174564,1,25,132,¿Cuál es tu estado civil?,24050039
+65,1745,8,65,174565,5,25,132,¿Cuál es tu situación laboral actual?,24050039
+66,1745,8,66,174566,2,25,132,¿Cuál es el máximo grado de estudios del Padre?,24050039
+67,1745,8,67,174567,1,25,132,¿Cuál es el máximo estudio de la madre?,24050039
+68,1745,8,68,174568,1,25,132,¿Cómo es tu relación con tus amigos(as)?,24050039
+69,1745,8,69,174569,2,25,132,¿Tienes pareja?,24050039
+81,774,9,81,77481,1,26,75,Selecciona la carrera a la cual perteneces.,22050024
+82,774,9,82,77482,5,26,75,Selecciona el semestre en el que te encuentras,22050024
+83,774,9,83,77483,1,26,75,¿Con qué género te identificas más?,22050024
+84,774,9,84,77484,2,26,75,¿En que modalidad te encuentras inscrito?,22050024
+85,774,9,85,77485,2,26,75,¿Cuál es tu edad actual? ,22050024
+86,774,9,86,77486,1,26,75,¿Cuál es tu estado civil?,22050024
+87,774,9,87,77487,2,26,75,¿Cuál es tu situación laboral actual?,22050024
+88,774,9,88,77488,2,26,75,¿Cuál es el máximo grado de estudios del Padre?,22050024
+89,774,9,89,77489,2,26,75,¿Cuál es el máximo estudio de la madre?,22050024
+90,774,9,90,77490,3,26,75,¿Cómo es tu relación con tus amigos(as)?,22050024
+91,774,9,91,77491,2,26,75,¿Tienes pareja?,22050024
+59,1587,8,59,158759,1,27,132,Selecciona la carrera a la cual perteneces.,24050018
+60,1587,8,60,158760,1,27,132,Selecciona el semestre en el que te encuentras,24050018
+61,1587,8,61,158761,2,27,132,¿Con qué género te identificas más?,24050018
+62,1587,8,62,158762,2,27,132,¿En que modalidad te encuentras inscrito?,24050018
+63,1587,8,63,158763,1,27,132,¿Cuál es tu edad actual? ,24050018
+64,1587,8,64,158764,1,27,132,¿Cuál es tu estado civil?,24050018
+65,1587,8,65,158765,2,27,132,¿Cuál es tu situación laboral actual?,24050018
+66,1587,8,66,158766,2,27,132,¿Cuál es el máximo grado de estudios del Padre?,24050018
+67,1587,8,67,158767,2,27,132,¿Cuál es el máximo estudio de la madre?,24050018
+68,1587,8,68,158768,2,27,132,¿Cómo es tu relación con tus amigos(as)?,24050018
+69,1587,8,69,158769,2,27,132,¿Tienes pareja?,24050018
+81,779,9,81,77981,1,28,75,Selecciona la carrera a la cual perteneces.,22050030
+82,779,9,82,77982,5,28,75,Selecciona el semestre en el que te encuentras,22050030
+83,779,9,83,77983,2,28,75,¿Con qué género te identificas más?,22050030
+84,779,9,84,77984,2,28,75,¿En que modalidad te encuentras inscrito?,22050030
+85,779,9,85,77985,3,28,75,¿Cuál es tu edad actual? ,22050030
+86,779,9,86,77986,1,28,75,¿Cuál es tu estado civil?,22050030
+87,779,9,87,77987,2,28,75,¿Cuál es tu situación laboral actual?,22050030
+88,779,9,88,77988,1,28,75,¿Cuál es el máximo grado de estudios del Padre?,22050030
+89,779,9,89,77989,2,28,75,¿Cuál es el máximo estudio de la madre?,22050030
+90,779,9,90,77990,2,28,75,¿Cómo es tu relación con tus amigos(as)?,22050030
+91,779,9,91,77991,1,28,75,¿Tienes pareja?,22050030
+59,1607,8,59,160759,1,29,132,Selecciona la carrera a la cual perteneces.,24050038
+60,1607,8,60,160760,1,29,132,Selecciona el semestre en el que te encuentras,24050038
+61,1607,8,61,160761,1,29,132,¿Con qué género te identificas más?,24050038
+62,1607,8,62,160762,2,29,132,¿En que modalidad te encuentras inscrito?,24050038
+63,1607,8,63,160763,3,29,132,¿Cuál es tu edad actual? ,24050038
+64,1607,8,64,160764,2,29,132,¿Cuál es tu estado civil?,24050038
+65,1607,8,65,160765,1,29,132,¿Cuál es tu situación laboral actual?,24050038
+66,1607,8,66,160766,1,29,132,¿Cuál es el máximo grado de estudios del Padre?,24050038
+67,1607,8,67,160767,1,29,132,¿Cuál es el máximo estudio de la madre?,24050038
+68,1607,8,68,160768,2,29,132,¿Cómo es tu relación con tus amigos(as)?,24050038
+69,1607,8,69,160769,1,29,132,¿Tienes pareja?,24050038
+81,757,9,81,75781,1,30,75,Selecciona la carrera a la cual perteneces.,22050003
+82,757,9,82,75782,5,30,75,Selecciona el semestre en el que te encuentras,22050003
+83,757,9,83,75783,1,30,75,¿Con qué género te identificas más?,22050003
+84,757,9,84,75784,1,30,75,¿En que modalidad te encuentras inscrito?,22050003
+85,757,9,85,75785,3,30,75,¿Cuál es tu edad actual? ,22050003
+86,757,9,86,75786,1,30,75,¿Cuál es tu estado civil?,22050003
+87,757,9,87,75787,4,30,75,¿Cuál es tu situación laboral actual?,22050003
+88,757,9,88,75788,2,30,75,¿Cuál es el máximo grado de estudios del Padre?,22050003
+89,757,9,89,75789,3,30,75,¿Cuál es el máximo estudio de la madre?,22050003
+90,757,9,90,75790,1,30,75,¿Cómo es tu relación con tus amigos(as)?,22050003
+91,757,9,91,75791,1,30,75,¿Tienes pareja?,22050003
+81,777,9,81,77781,1,31,75,Selecciona la carrera a la cual perteneces.,22050027
+82,777,9,82,77782,5,31,75,Selecciona el semestre en el que te encuentras,22050027
+83,777,9,83,77783,2,31,75,¿Con qué género te identificas más?,22050027
+84,777,9,84,77784,2,31,75,¿En que modalidad te encuentras inscrito?,22050027
+85,777,9,85,77785,1,31,75,¿Cuál es tu edad actual? ,22050027
+86,777,9,86,77786,1,31,75,¿Cuál es tu estado civil?,22050027
+87,777,9,87,77787,2,31,75,¿Cuál es tu situación laboral actual?,22050027
+88,777,9,88,77788,2,31,75,¿Cuál es el máximo grado de estudios del Padre?,22050027
+89,777,9,89,77789,2,31,75,¿Cuál es el máximo estudio de la madre?,22050027
+90,777,9,90,77790,2,31,75,¿Cómo es tu relación con tus amigos(as)?,22050027
+91,777,9,91,77791,2,31,75,¿Tienes pareja?,22050027
+81,770,9,81,77081,1,32,75,Selecciona la carrera a la cual perteneces.,22050018
+82,770,9,82,77082,5,32,75,Selecciona el semestre en el que te encuentras,22050018
+83,770,9,83,77083,1,32,75,¿Con qué género te identificas más?,22050018
+84,770,9,84,77084,2,32,75,¿En que modalidad te encuentras inscrito?,22050018
+85,770,9,85,77085,1,32,75,¿Cuál es tu edad actual? ,22050018
+86,770,9,86,77086,2,32,75,¿Cuál es tu estado civil?,22050018
+87,770,9,87,77087,1,32,75,¿Cuál es tu situación laboral actual?,22050018
+88,770,9,88,77088,2,32,75,¿Cuál es el máximo grado de estudios del Padre?,22050018
+89,770,9,89,77089,1,32,75,¿Cuál es el máximo estudio de la madre?,22050018
+90,770,9,90,77090,1,32,75,¿Cómo es tu relación con tus amigos(as)?,22050018
+91,770,9,91,77091,1,32,75,¿Tienes pareja?,22050018
+81,781,9,81,78181,1,33,75,Selecciona la carrera a la cual perteneces.,22050035
+82,781,9,82,78182,5,33,75,Selecciona el semestre en el que te encuentras,22050035
+83,781,9,83,78183,1,33,75,¿Con qué género te identificas más?,22050035
+84,781,9,84,78184,1,33,75,¿En que modalidad te encuentras inscrito?,22050035
+85,781,9,85,78185,1,33,75,¿Cuál es tu edad actual? ,22050035
+86,781,9,86,78186,1,33,75,¿Cuál es tu estado civil?,22050035
+87,781,9,87,78187,5,33,75,¿Cuál es tu situación laboral actual?,22050035
+88,781,9,88,78188,7,33,75,¿Cuál es el máximo grado de estudios del Padre?,22050035
+89,781,9,89,78189,1,33,75,¿Cuál es el máximo estudio de la madre?,22050035
+90,781,9,90,78190,1,33,75,¿Cómo es tu relación con tus amigos(as)?,22050035
+91,781,9,91,78191,2,33,75,¿Tienes pareja?,22050035
+48,1054,7,48,105448,1,34,118,Selecciona la carrera a la cual perteneces.,23050029
+49,1054,7,49,105449,3,34,118,Selecciona el semestre en el que te encuentras,23050029
+50,1054,7,50,105450,2,34,118,¿Con qué género te identificas más?,23050029
+51,1054,7,51,105451,2,34,118,¿En que modalidad te encuentras inscrito?,23050029
+52,1054,7,52,105452,1,34,118,¿Cuál es tu edad actual? ,23050029
+53,1054,7,53,105453,1,34,118,¿Cuál es tu estado civil?,23050029
+54,1054,7,54,105454,1,34,118,¿Cuál es tu situación laboral actual?,23050029
+55,1054,7,55,105455,7,34,118,¿Cuál es el máximo grado de estudios del Padre?,23050029
+56,1054,7,56,105456,7,34,118,¿Cuál es el máximo estudio de la madre?,23050029
+57,1054,7,57,105457,2,34,118,¿Cómo es tu relación con tus amigos(as)?,23050029
+58,1054,7,58,105458,2,34,118,¿Tienes pareja?,23050029
+81,766,9,81,76681,1,35,75,Selecciona la carrera a la cual perteneces.,22050013
+82,766,9,82,76682,5,35,75,Selecciona el semestre en el que te encuentras,22050013
+83,766,9,83,76683,2,35,75,¿Con qué género te identificas más?,22050013
+84,766,9,84,76684,1,35,75,¿En que modalidad te encuentras inscrito?,22050013
+85,766,9,85,76685,1,35,75,¿Cuál es tu edad actual? ,22050013
+86,766,9,86,76686,1,35,75,¿Cuál es tu estado civil?,22050013
+87,766,9,87,76687,5,35,75,¿Cuál es tu situación laboral actual?,22050013
+88,766,9,88,76688,2,35,75,¿Cuál es el máximo grado de estudios del Padre?,22050013
+89,766,9,89,76689,2,35,75,¿Cuál es el máximo estudio de la madre?,22050013
+90,766,9,90,76690,3,35,75,¿Cómo es tu relación con tus amigos(as)?,22050013
+91,766,9,91,76691,1,35,75,¿Tienes pareja?,22050013
+81,798,9,81,79881,1,36,75,Selecciona la carrera a la cual perteneces.,22050063
+82,798,9,82,79882,5,36,75,Selecciona el semestre en el que te encuentras,22050063
+83,798,9,83,79883,1,36,75,¿Con qué género te identificas más?,22050063
+84,798,9,84,79884,1,36,75,¿En que modalidad te encuentras inscrito?,22050063
+85,798,9,85,79885,2,36,75,¿Cuál es tu edad actual? ,22050063
+86,798,9,86,79886,1,36,75,¿Cuál es tu estado civil?,22050063
+87,798,9,87,79887,5,36,75,¿Cuál es tu situación laboral actual?,22050063
+88,798,9,88,79888,4,36,75,¿Cuál es el máximo grado de estudios del Padre?,22050063
+89,798,9,89,79889,3,36,75,¿Cuál es el máximo estudio de la madre?,22050063
+90,798,9,90,79890,1,36,75,¿Cómo es tu relación con tus amigos(as)?,22050063
+91,798,9,91,79891,2,36,75,¿Tienes pareja?,22050063
+81,780,9,81,78081,1,37,75,Selecciona la carrera a la cual perteneces.,22050031
+82,780,9,82,78082,5,37,75,Selecciona el semestre en el que te encuentras,22050031
+83,780,9,83,78083,1,37,75,¿Con qué género te identificas más?,22050031
+84,780,9,84,78084,1,37,75,¿En que modalidad te encuentras inscrito?,22050031
+85,780,9,85,78085,1,37,75,¿Cuál es tu edad actual? ,22050031
+86,780,9,86,78086,1,37,75,¿Cuál es tu estado civil?,22050031
+87,780,9,87,78087,5,37,75,¿Cuál es tu situación laboral actual?,22050031
+88,780,9,88,78088,2,37,75,¿Cuál es el máximo grado de estudios del Padre?,22050031
+89,780,9,89,78089,2,37,75,¿Cuál es el máximo estudio de la madre?,22050031
+90,780,9,90,78090,1,37,75,¿Cómo es tu relación con tus amigos(as)?,22050031
+91,780,9,91,78091,2,37,75,¿Tienes pareja?,22050031
+48,1048,7,48,104848,1,38,118,Selecciona la carrera a la cual perteneces.,23050023
+49,1048,7,49,104849,3,38,118,Selecciona el semestre en el que te encuentras,23050023
+50,1048,7,50,104850,2,38,118,¿Con qué género te identificas más?,23050023
+51,1048,7,51,104851,2,38,118,¿En que modalidad te encuentras inscrito?,23050023
+52,1048,7,52,104852,1,38,118,¿Cuál es tu edad actual? ,23050023
+53,1048,7,53,104853,1,38,118,¿Cuál es tu estado civil?,23050023
+54,1048,7,54,104854,5,38,118,¿Cuál es tu situación laboral actual?,23050023
+55,1048,7,55,104855,2,38,118,¿Cuál es el máximo grado de estudios del Padre?,23050023
+56,1048,7,56,104856,2,38,118,¿Cuál es el máximo estudio de la madre?,23050023
+57,1048,7,57,104857,2,38,118,¿Cómo es tu relación con tus amigos(as)?,23050023
+58,1048,7,58,104858,1,38,118,¿Tienes pareja?,23050023

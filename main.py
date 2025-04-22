@@ -5,6 +5,7 @@ from dash.dependencies import Input, Output
 import warnings
 warnings.filterwarnings("ignore")
 import dash_auth 
+import os
 
 
 
@@ -38,13 +39,14 @@ app = Dash(__name__,
            external_stylesheets=[dbc.themes.BOOTSTRAP],
            suppress_callback_exceptions=True
            )
+server = app.server 
 #creacion de autenticacion
 auth = dash_auth.BasicAuth(
     app,
     Lista_usuarios
 )
 
-server = app.server
+
 
 sidebar = html.Div(
     [
@@ -96,4 +98,6 @@ def  render_page_content(pathname):
     
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    #app.run(debug=True)
+    port = int(os.environ.get("PORT", 8080))
+    app.run(host="0.0.0.0", port=port, debug=True)
