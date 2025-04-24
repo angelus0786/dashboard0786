@@ -12,6 +12,7 @@ Lista_usuarios = [
     ['admin','admin'], #usuario y contraseña
     ['user','007']
 ]
+
 #Estilos principales
 SIDEBAR_STYLE = {
     'padding': '2rem 1rem',

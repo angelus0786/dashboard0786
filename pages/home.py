@@ -101,7 +101,7 @@ gauge_mujeres = go.Figure(
     data = [go.Indicator(
     mode="gauge+number",
     value=total_mujeres,
-    title={'text': "Mujeres"},
+  #  title={'text': "Mujeres"},
     gauge={
         'axis': {'range': [0, total_estudiantes]},
         'bar': {'color': "#FF7F50"},
@@ -121,7 +121,7 @@ gauge_hombres = go.Figure(
     data = [go.Indicator(
     mode="gauge+number",
     value=total_hombres,
-    title={'text': "Hombres"},
+    #title={'text': "Hombres"},
     gauge={
         'axis': {'range': [0, total_estudiantes]},
         'bar': {'color': "#FF7F50"},
