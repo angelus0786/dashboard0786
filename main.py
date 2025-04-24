@@ -7,95 +7,100 @@ warnings.filterwarnings("ignore")
 import dash_auth 
 import os
 
-
-
-SIDEBAR_STYLE = {
-    'position':'fixed',
-    'top':0,
-    'left':0,
-    'bottom':0,
-    'width':'12rem',  
-    'padding':'2rem 1rem',
-    'backgroundColor':'#2b2b2b',
-    'color':'#cfcfcf',
-    'fontSize':'23px',
-    'boxShadow':'5px 5px 5px 5px lightgrey'
-}
-
-CONTENT_STYLE = {
-    'marginLeft':'15rem',
-    'marginRight':'2rem',
-    'padding':'2rem 1rem'
-}
-
-#crear lista de usuarios
+#Lista de usuarios
 Lista_usuarios = [
     ['admin','admin'], #usuario y contraseña
     ['user','007']
 ]
+#Estilos principales
+SIDEBAR_STYLE = {
+    'padding': '2rem 1rem',
+    'backgroundColor': '#2b2b2b',
+    'color': '#cfcfcf',
+    'fontSize': '23px',
+    'boxShadow': '5px 5px 5px lightgrey',
+    'height': '100vh' 
+}
 
+CONTENT_STYLE = {
+    'padding': '2rem 1rem'   
+}
+
+# Inicialización de la app
 app = Dash(__name__,
            use_pages=True,
            external_stylesheets=[dbc.themes.BOOTSTRAP],
            suppress_callback_exceptions=True
            )
-server = app.server 
-#creacion de autenticacion
-auth = dash_auth.BasicAuth(
-    app,
-    Lista_usuarios
-)
+#autenticacion
+auth = dash_auth.BasicAuth(app,Lista_usuarios)
 
+# Sidebar como offcanvas para móviles
+offcanvas = html.Div([
+    dbc.Button("☰ Menú", id="open-offcanvas", n_clicks=0, className="d-md-none mb-3", color="secondary"),
+    dbc.Offcanvas(
+        [
+            html.H2('Dashboard', style={'fontWeight': 'bold'}),
+            html.Hr(),
+            dbc.Nav(
+                [
+                    dbc.NavLink("Inicio", href="/", active="exact"),
+                    dbc.NavLink("Miradas", href="/miradas", active="exact"),
+                    dbc.NavLink("Clusters", href="/cluster", active="exact"),
+                ],
+                vertical=True,
+                pills=True,
+            ),
+        ],
+        id="offcanvas",
+        is_open=False,
+        placement="start",
+        style={"backgroundColor": "#2b2b2b", "color": "#cfcfcf"}
+    )
+])
 
-
+# Sidebar fijo para pantallas medianas y grandes
 sidebar = html.Div(
     [
-        html.H1(f'Dashboard',style={'fontSize':'32px','fontWeight':'bold'}),
-        html.Hr(),
-        html.H2('Menú', className='lead',style={'fontSize':'26px'}),
+        html.H2("Dashboard", style={'fontWeight': 'bold'}),
         html.Hr(),
         dbc.Nav(
             [
-                 dbc.NavLink("Inicio",href="/",active='exact'),
-                 dbc.NavLink("Miradas",href="/miradas",active='exact'),
-                 #dbc.NavLink("Clusters",href="/cluster",active='exact')
-                # dbc.NavLink(f"{page['name']}",href=page["relative_path"],active='exact')
-               # for page in dash.page_registry.values()               
+                dbc.NavLink("Inicio", href="/", active="exact"),
+                dbc.NavLink("Miradas", href="/miradas", active="exact"),
+                dbc.NavLink("Clusters", href="/cluster", active="exact"),
             ],
             vertical=True,
             pills=True
         ),
     ],
-    style=SIDEBAR_STYLE)
+    className="d-none d-md-block",
+    style=SIDEBAR_STYLE
+)
 
+#contenido principal
 content = html.Div([
     dcc.Location(id='url',refresh=False),
     dash.page_container
 ],style=CONTENT_STYLE)
 
 #layout principal
-app.layout = html.Div([sidebar,content])
+app.layout = dbc.Container([
+    dbc.Row([
+        dbc.Col([sidebar, offcanvas], md=3),
+        dbc.Col(content, md=9)
+    ])
+], fluid=True)
 
+# Callback para abrir el menú offcanvas
 @app.callback(
-    Output('page-content', 'children'),
-    Input('url', 'pathname'),
+    Output("offcanvas", "is_open"),
+    Input("open-offcanvas", "n_clicks"),
     prevent_initial_call=True
 )
-
-def  render_page_content(pathname):
-    if pathname == '/':
-        return dash.page_registry['home']['layout']
-    elif pathname == '/home':
-        return dash.page_registry['home']['layout']
-    elif pathname == '/miradas':
-        return dash.page_registry['miradas']['layout']
-    elif pathname == '/cluster':
-        return dash.page_registry['cluster']['layout']
-    # Add a default case if needed
-   # return html.Div([
-    #    html.H3(f"You are on the page: {pathname}")
-   # ])
-    
+def toggle_offcanvas(n_clicks):
+    return True
+  
 
 if __name__ == '__main__':
     #app.run(debug=True)
