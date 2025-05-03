@@ -6,6 +6,7 @@ import warnings
 warnings.filterwarnings("ignore")
 import dash_auth 
 import os
+import flask
 
 #Lista de usuarios
 Lista_usuarios = [
@@ -46,8 +47,8 @@ offcanvas = html.Div([
             dbc.Nav(
                 [
                     dbc.NavLink("Inicio", href="/", active="exact"),
-                    dbc.NavLink("Miradas", href="/miradas", active="exact"),
-                    dbc.NavLink("Clusters", href="/cluster", active="exact"),
+                    dbc.NavLink("Miradas", href="/analisisxestudiante", active="exact"),
+                   # dbc.NavLink("Clusters", href="/cluster", active="exact"),
                 ],
                 vertical=True,
                 pills=True,
@@ -68,8 +69,8 @@ sidebar = html.Div(
         dbc.Nav(
             [
                 dbc.NavLink("Inicio", href="/", active="exact"),
-                dbc.NavLink("Miradas", href="/miradas", active="exact"),
-                dbc.NavLink("Clusters", href="/cluster", active="exact"),
+                dbc.NavLink("Miradas", href="/analisisxestudiante", active="exact"),
+             #   dbc.NavLink("Clusters", href="/cluster", active="exact"),
             ],
             vertical=True,
             pills=True
@@ -104,6 +105,6 @@ def toggle_offcanvas(n_clicks):
   
 
 if __name__ == '__main__':
-    #app.run(debug=True)
-    port = int(os.environ.get("PORT", 8080))
-    app.run(host="0.0.0.0", port=port, debug=True)
+    app.run(debug=True)
+ #   port = int(os.environ.get("PORT", 8080))
+  #  app.run(host="0.0.0.0", port=port, debug=True)
