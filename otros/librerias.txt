@@ -1,0 +1,44 @@
+mkdir mi_app_dash
+git init  #estando en directorio mi_app_dash
+#crear entorno virtual
+python -m virtualenv virtualenv venv 
+#activar entorno
+.\venv\Scripts\activate
+#instalar librerias
+pip install dash
+pip install dash-auth
+pip install pandas
+pip install dash-bootstrap-components
+pip install requests
+pip install xlrd
+pip install plotly
+pip install plotly[express]
+pip install numpy
+pip install matplotlib
+pip install scikit-learn
+
+pip install gunicorn
+#fichero .gitignore 
+#guardar en mi_app_dash  #sin extencion
+venv*.pyc
+.DS_Store
+.env
+#fichero Procfile  sin extencion
+web: gunicorn main:server % se cambio linea 
+
+#generar archivo de librerias
+pip freeze > requirements.txt
+
+#logear en heroku
+
+prara github
+#entra al entorno y despues verifica branch, carga y commit
+git branch
+git add .
+git commit -m "Actualizacion de proyecto"
+git push origin main --force
+
+
+
+
+
