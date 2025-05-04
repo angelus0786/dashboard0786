@@ -48,7 +48,7 @@ offcanvas = html.Div([
                 [
                     dbc.NavLink("Inicio", href="/", active="exact"),
                     dbc.NavLink("Miradas", href="/analisisxestudiante", active="exact"),
-                   # dbc.NavLink("Clusters", href="/cluster", active="exact"),
+                    dbc.NavLink("Clusters", href="/clusters", active="exact"),
                 ],
                 vertical=True,
                 pills=True,
@@ -70,7 +70,7 @@ sidebar = html.Div(
             [
                 dbc.NavLink("Inicio", href="/", active="exact"),
                 dbc.NavLink("Miradas", href="/analisisxestudiante", active="exact"),
-             #   dbc.NavLink("Clusters", href="/cluster", active="exact"),
+                dbc.NavLink("Clusters", href="/clusters", active="exact"),
             ],
             vertical=True,
             pills=True
@@ -105,6 +105,6 @@ def toggle_offcanvas(n_clicks):
   
 
 if __name__ == '__main__':
-  #  app.run(debug=True)
-    port = int(os.environ.get("PORT", 8080))
-    app.run(host="0.0.0.0", port=port, debug=True)
+    app.run(debug=True)     #comentar para subir al servidor
+  #  port = int(os.environ.get("PORT", 8080))
+  #  app.run(host="0.0.0.0", port=port, debug=True)
