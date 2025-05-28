@@ -31,7 +31,7 @@ CONTENT_STYLE = {
 # Inicialización de la app
 app = Dash(__name__,
            use_pages=True,
-           external_stylesheets=[dbc.themes.BOOTSTRAP],
+           external_stylesheets=[dbc.themes.BOOTSTRAP,"https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"],
            suppress_callback_exceptions=True
            )
 #autenticacion
@@ -49,6 +49,7 @@ offcanvas = html.Div([
                     dbc.NavLink("Inicio", href="/", active="exact"),
                     dbc.NavLink("Mirada", href="/vistaxestudiante", active="exact"),
                     dbc.NavLink("Miradas", href="/analisisxestudiante", active="exact"),
+                    dbc.NavLink("Semaforización", href="/semaforoxsem", active="exact"),
                     dbc.NavLink("Clusters", href="/clusters", active="exact"),
                 ],
                 vertical=True,
@@ -72,6 +73,7 @@ sidebar = html.Div(
                 dbc.NavLink("Inicio", href="/", active="exact"),
                 dbc.NavLink("Mirada", href="/vistaxestudiante", active="exact"),
                 dbc.NavLink("Miradas", href="/analisisxestudiante", active="exact"),
+                dbc.NavLink("Semaforización", href="/semaforoxsem", active="exact"),
                 dbc.NavLink("Clusters", href="/clusters", active="exact"),
             ],
             vertical=True,
@@ -107,6 +109,6 @@ def toggle_offcanvas(n_clicks):
   
 
 if __name__ == '__main__':
-   # app.run(debug=True)     #comentar para subir al servidor
-    port = int(os.environ.get("PORT", 8080))
-    app.run(host="0.0.0.0", port=port, debug=True)
+    app.run(debug=True)     #comentar para subir al servidor
+   #port = int(os.environ.get("PORT", 8080))
+   #app.run(host="0.0.0.0", port=port, debug=True)

@@ -16,6 +16,7 @@ pip install plotly[express]
 pip install numpy
 pip install matplotlib
 pip install scikit-learn
+pip install kmodes
 
 pip install gunicorn
 #fichero .gitignore 
